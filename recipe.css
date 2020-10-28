@@ -1,0 +1,84 @@
+/* Css properties */
+.grand{
+    text-align: center;
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 22pt;
+    font-size-adjust: 0.25em;
+    font-weight: bold;
+    background-color: #F0F0F0;
+    font-family: Lucida Sans Unicode;
+    display: block;
+}
+.ingredients{   
+    text-align: left;
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-size-adjust: 0.25em;
+    font-weight: normal;
+    background-color: #F0F0F0;
+    font-family: Helvetica; 
+    display: inline;  
+}
+.directions{
+    text-align: left;
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-size-adjust: 0.25em;
+    font-weight: normal;
+    background-color:#F0F0F0;
+    font-family: Arial;
+    display: inline;
+}
+.user{
+    text-align: left;
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-size-adjust: 0.25em;
+    font-weight: normal;
+    background-color: #F0F0F0;
+    font-family: sans-serif;
+    display: inline;
+}
+.links{
+    text-align: left;
+    color: #A4A400;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-size-adjust: 0.25em;
+    font-weight: normal;
+    background-color: #F0F0F0;
+    font-family: Verdana;
+    display: inline;
+}
+.bkground{
+color: #404040;
+font-family: Georgia;
+font-size: 11pt;
+}
+.cover{
+background-image: url(image/silverware.jpg); 
+}
+.img{
+height:"200px"; 
+width:"200px"
+}
+.copy{
+font-family: monospace;
+text-align-last: left;
+}
+.castle{
+color: #A4A400;
+}
+.comment1{
+background-color: #FFFFA8;
+}
+.comment2{
+background-color: #FFFFA8;
+}
+.comment3{
+background-color: #FFFFA8;
+}

@@ -1,0 +1,72 @@
+/*CSS properties*/
+.title{
+text-align: center;
+color: white;
+text-decoration: underline;
+font-size: 22pt;
+font-weight: bold;
+background-color: blue;
+font-family: Lucida Sans Unicode;
+display: block;
+}
+.main{
+    background-color: white;
+    font-size: 11pt;
+    font-family: Georgia;
+}
+.img{
+    height:"200px"; 
+    width:"200px";
+}
+.container{
+    text-align: left;
+    color: white;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-weight: normal;
+    background-color: blue;
+    font-family:Helvetica;
+    display: inline; 
+}
+.procedure{
+    text-align: left;
+    color: white;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-weight: normal;
+    background-color: blue;
+    font-family:Arial;
+    display: inline; 
+}
+.user{
+    text-align: left;
+    color: white;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-weight: normal;
+    background-color: blue;
+    font-family:sans-serif;
+    display: inline; 
+}
+.redirect{
+    text-align: left;
+    color: white;
+    text-decoration: underline;
+    font-size: 18pt;
+    font-weight: normal;
+    background-color: blue;
+    font-family:Verdana;
+    display: inline; 
+}
+.comments{
+background-color: powderblue;
+}
+.main{
+background-color: powderblue;
+}
+.color{
+background-color: sandybrown;
+}
+.click{
+font-size: 15pt;
+}
